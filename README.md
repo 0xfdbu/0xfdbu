@@ -3,15 +3,17 @@
 Smart contract engineer building tooling, protocols, and launch systems across EVM chains and TON.  
 Focused on gas-efficient, modular architecture with real-world deployment in mind.
 
-Also experienced in frontend development — I build clean, **pixel-perfect interfaces from Figma** using modern React + TypeScript stacks.
+Also experienced in frontend and backend development — I build clean, **pixel-perfect UIs from Figma**, and scalable backends using modern full-stack tools.
 
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** Solidity, FunC, Tolk, TypeScript
-- **Chains:** Ethereum, Arbitrum, Optimism, TON, Conflux
-- **Tools:** Hardhat, Foundry, TVM, wagmi, viem, ethers.js
-- **Frontend:** React, TypeScript, Tailwind, Vite, Zustand, shadcn/ui
+
+- **Smart Contracts:** Solidity, FunC, Tolk  
+- **Frontend:** React, TypeScript, Tailwind, Vite, Zustand, shadcn/ui  
+- **Backend:** NestJS, Express.js, LAMP
+- **Chains:** Ethereum, Arbitrum, Optimism, TON, Conflux  
+- **Tools:** Hardhat, Foundry, TVM, wagmi, viem, ethers.js  
 
 ---
 
@@ -21,7 +23,7 @@ Also experienced in frontend development — I build clean, **pixel-perfect inte
 - Smart contract security
 - Gas optimization
 - Launch tooling
-- Developer tooling UX
+- Full-stack dApp development
 
 ---
 
