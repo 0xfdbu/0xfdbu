@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I’m Syv 🧠
 
-<!--
-**0xfdbu/0xfdbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Smart contract engineer building tooling, protocols, and launch systems across EVM chains and TON.  
+Focused on gas-efficient, modular architecture with real-world deployment in mind.
 
-Here are some ideas to get you started:
+Also experienced in frontend development — I build clean, **pixel-perfect interfaces from Figma** using modern React + TypeScript stacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages:** Solidity, FunC, Tolk, TypeScript
+- **Chains:** Ethereum, Arbitrum, Optimism, TON, Conflux
+- **Tools:** Hardhat, Foundry, TVM, wagmi, viem, ethers.js
+- **Frontend:** React, TypeScript, Tailwind, Vite, Zustand, shadcn/ui
+
+---
+
+### 🧩 Interests
+- Factory patterns
+- DeFi infrastructure
+- Smart contract security
+- Gas optimization
+- Launch tooling
+- Developer tooling UX
+
+---
+
+### 📫 Contact
+- Telegram: `@syv_dev`
