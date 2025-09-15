@@ -6,7 +6,6 @@ Focused on gas-efficient, modular architecture with real-world deployment in min
 Developer since 2017 with experience across the full stack — from low-level smart contracts to high-performance web apps.  
 I build clean, **pixel-perfect UIs from Figma**, and scalable backends using modern full-stack tools.  
 
-🏆 Winner of **Dreamspace Appathon** on **1st September 2025** — [BaseChat](https://github.com/0xfdbu/basechat)  
 
 ---
 
