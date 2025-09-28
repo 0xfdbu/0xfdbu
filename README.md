@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Syv
 
 💡 Builder | Engineer | Problem Solver | Explorer  
 
