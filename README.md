@@ -1,3 +1,1 @@
-# Hey, I'm Syv 👋
-
-I like to try new things.
+# Hey, Have a great day!
